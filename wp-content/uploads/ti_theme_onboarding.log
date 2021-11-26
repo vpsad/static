@@ -1,0 +1,16 @@
+[25/Nov/2021:16:07:14] (I): WordPress Instance Info:
+[25/Nov/2021:16:07:14] (I): Home URL : https://test.yyyisp.com
+[25/Nov/2021:16:07:14] (I): Site URL : https://test.yyyisp.com
+[25/Nov/2021:16:07:14] (I): WordPress Version : 5.8.2
+[25/Nov/2021:16:07:14] (I): Onboarding Version : 1.1.18
+[25/Nov/2021:16:07:14] (I): Multisite : No
+[25/Nov/2021:16:07:14] (I): Server Info : nginx/1.21.0
+[25/Nov/2021:16:07:14] (I): PHP Version : 7.4.24
+[25/Nov/2021:16:07:14] (I): HTTPS : Yes
+[25/Nov/2021:16:07:14] (I): PHP Max Execution Time : 300
+[25/Nov/2021:16:07:14] (I): PHP Max Input Vars : 1000
+[25/Nov/2021:16:07:14] (I): Max Upload Size : 52428800
+[25/Nov/2021:16:07:14] (I): Plugins:
+[25/Nov/2021:16:07:14] (I): [PLUGIN] External Media without Import : v1.1.2 (Zhixiang Zhu)
+[25/Nov/2021:16:07:14] (I): [PLUGIN] Templates Patterns Collection : v1.1.18 (ThemeIsle)
+[25/Nov/2021:16:07:14] (I): [PLUGIN] WPJAM BASIC : v5.8.12 (Denis)
