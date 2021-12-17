@@ -1,10 +1,4 @@
 @charset "utf-8";
-/*Npcink
-
-	版本：2.0
-	整理：Muze
-	帮助：https://www.npc.ink/20532.html
-*/
 
 .vitara_slide_in {
   width: 100%;
@@ -197,13 +191,13 @@
   position: absolute;
   z-index: 10;
   left: 50%;
-  top: 110px;
-  width: 260px;
-  padding: 8px 40px 8px 0;
+  top: 60px;
+  width: 230px;
+  padding: 8px 20px 8px 0;
   -webkit-border-radius: 6px;
   border-radius: 6px;
   background: rgba(55, 55, 55, 0.5);
-  margin-left: 390px;
+  margin-left: 340px;
   display: none;
 }
 @media (min-width: 1330px) {
