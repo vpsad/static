@@ -189,7 +189,7 @@
 /*列表*/
 .home-section-first-menus {
   position: absolute;
-  z-index: 10;
+  z-index: 2;
   left: 50%;
   top: 60px;
   width: 230px;
