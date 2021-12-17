@@ -188,7 +188,6 @@
 
 /*列表*/
 .home-section-first-menus {
-  position: absolute;
   z-index: 2;
   left: 50%;
   top: 30px;
@@ -198,7 +197,6 @@
   border-radius: 6px;
   background: rgba(55, 55, 55, 0.5);
   margin-left: 400px;
-  display: none;
 }
 @media (min-width: 1330px) {
   .home-section-first-menus {
