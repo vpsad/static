@@ -197,6 +197,7 @@
   border-radius: 6px;
   background: rgba(55, 55, 55, 0.5);
   margin-left: 400px;
+  position: absolute;
 }
 @media (min-width: 1330px) {
   .home-section-first-menus {
